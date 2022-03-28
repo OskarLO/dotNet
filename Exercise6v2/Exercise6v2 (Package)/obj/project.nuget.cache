@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "raEzOFWha8f7Kf0f4e/+jX5/E8d8KA6tUWLMfCpIn6wRWdE2+Y98MHotYEMbGpseiT4NV4kUQ3P533FFyKbfIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ando\\source\\repos\\Exercise6v2\\Exercise6v2 (Package)\\Exercise6v2 (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.12\\microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.projectreunion\\0.8.0\\microsoft.projectreunion.0.8.0.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.0\\microsoft.projectreunion.dwrite.0.8.0.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.0\\microsoft.projectreunion.foundation.0.8.0.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.0\\microsoft.projectreunion.interactiveexperiences.0.8.0.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.0\\microsoft.projectreunion.winui.0.8.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.EntityFrameworkCore.Design 5.0.12' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net6.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.EntityFrameworkCore.SqlServer 5.0.12' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net6.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.EntityFrameworkCore.Tools 5.0.12' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net6.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.ProjectReunion.InteractiveExperiences 0.8.0' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net6.0-windows10.0.19041, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.ProjectReunion.InteractiveExperiences",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    }
+  ]
+}

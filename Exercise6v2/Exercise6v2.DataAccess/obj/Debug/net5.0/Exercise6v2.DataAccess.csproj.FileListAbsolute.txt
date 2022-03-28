@@ -1,0 +1,27 @@
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfo.cs
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.deps.json
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.deps.json
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\bin\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfo.cs
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.json
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.dev.json
+C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.genruntimeconfig.cache
