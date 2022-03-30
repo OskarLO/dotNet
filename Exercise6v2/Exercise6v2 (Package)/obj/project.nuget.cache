@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "raEzOFWha8f7Kf0f4e/+jX5/E8d8KA6tUWLMfCpIn6wRWdE2+Y98MHotYEMbGpseiT4NV4kUQ3P533FFyKbfIw==",
+  "dgSpecHash": "H4uj7v83Cfh7WWDbMf4NaPA0qyWtGNsEpQqDIGxRaSKleT4GqziMfFI92bblH9hySwC8MITaq3bh9KYcT+NC2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ando\\source\\repos\\Exercise6v2\\Exercise6v2 (Package)\\Exercise6v2 (Package).wapproj",
+  "projectFilePath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2 (Package)\\Exercise6v2 (Package).wapproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ando\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.12\\microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",

@@ -10,7 +10,7 @@ namespace Exercise6v2.DataAccess.Model
         [Required]
         public int SubjectId { get; set; }
         public string SubjectName { get; set; }
-        public List<Student> Students { get; set; }
+        public ICollection<Student> Students { get; set; }
 
         public Subject(int subjectId, string subjectName)
         {

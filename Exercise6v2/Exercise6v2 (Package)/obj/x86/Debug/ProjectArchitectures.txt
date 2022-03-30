@@ -1,1 +1,1 @@
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Exercise6v2 (Package).wapproj;x86
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Exercise6v2 (Package).wapproj;x86

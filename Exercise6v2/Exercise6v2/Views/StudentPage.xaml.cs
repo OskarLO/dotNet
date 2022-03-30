@@ -1,4 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.DependencyInjection;
+using CommunityToolkit.WinUI.UI.Controls;
 using Exercise6v2.ViewModels;
 
 using Microsoft.UI.Xaml.Controls;
@@ -14,5 +15,6 @@ namespace Exercise6v2.Views
             ViewModel = Ioc.Default.GetService<StudentViewModel>();
             InitializeComponent();
         }
+
     }
 }

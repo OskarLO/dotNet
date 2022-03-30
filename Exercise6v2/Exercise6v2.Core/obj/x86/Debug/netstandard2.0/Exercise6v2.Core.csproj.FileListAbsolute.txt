@@ -18,3 +18,13 @@ C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v
 C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.CoreCompileInputs.cache
 C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
 C:\Users\Oskar Who\OneDrive - Østfold University College\.NET\Backup\Exercise6v2(280322)\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.deps.json
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.AssemblyReference.cache
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfoInputs.cache
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfo.cs
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb

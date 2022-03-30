@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KL7SDAFsIh1Mt7k2AFfZ37ocghAhWLAFxvwVrpsYgufguDstTjMeUukqmihKX1e9upelH1cC6pdZ+3bOlDIEcw==",
+  "dgSpecHash": "BGpPfRLq9x44yV/hWXpwGKfe6gszcvEDZtKVUl5uxWg0RsQTLAEPmPdZse0n7GHZ87uBtUPGGmw7dxpkUa50dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ando\\source\\repos\\Exercise6v2\\Exercise6v2.DataAccess\\Exercise6v2.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.DataAccess\\Exercise6v2.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,22 +1,34 @@
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf
 C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\SplashScreen.scale-200.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\LockScreenLogo.scale-200.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\Square150x150Logo.scale-200.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\Square44x44Logo.scale-200.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\StoreLogo.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Images\Wide310x150Logo.scale-200.png
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\Package.appinstaller
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\resources.pri
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\SplashScreen.scale-200.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\StoreLogo.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\Package.appinstaller
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\resources.pri
+C:\Users\Ando\.nuget\packages\colorcode.core\2.0.9\lib\netstandard1.4\ColorCode.Core.dll
+C:\Users\Ando\.nuget\packages\colorcode.winui\2.0.9\lib\net5.0-windows10.0.18362\ColorCode.WinUI.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.common\7.0.3\lib\net5.0\CommunityToolkit.Common.dll
 C:\Users\Ando\.nuget\packages\communitytoolkit.mvvm\7.0.3\lib\net5.0\CommunityToolkit.Mvvm.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.core\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Core.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.input\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Input.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.layout\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Layout.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.markdown\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Markdown.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.media\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Media.dll
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.primitives\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Primitives.dll
 C:\Users\Ando\.nuget\packages\humanizer.core\2.8.26\lib\netstandard2.0\Humanizer.dll
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient\2.0.1\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Ando\.nuget\packages\microsoft.entityframeworkcore\5.0.12\lib\netstandard2.1\Microsoft.EntityFrameworkCore.dll
@@ -33,6 +45,7 @@ C:\Users\Ando\.nuget\packages\microsoft.extensions.logging\5.0.0\lib\netstandard
 C:\Users\Ando\.nuget\packages\microsoft.extensions.logging.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Ando\.nuget\packages\microsoft.extensions.options\5.0.0\lib\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\Ando\.nuget\packages\microsoft.extensions.primitives\5.0.0\lib\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ando\.nuget\packages\microsoft.graphics.win2d\0.8.0.21\lib\net5.0-windows10.0.18362.0\Microsoft.Graphics.Canvas.Interop.dll
 C:\Users\Ando\.nuget\packages\microsoft.identity.client\4.14.0\lib\netcoreapp2.1\Microsoft.Identity.Client.dll
 C:\Users\Ando\.nuget\packages\microsoft.identitymodel.jsonwebtokens\5.6.0\lib\netstandard2.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Ando\.nuget\packages\microsoft.identitymodel.logging\5.6.0\lib\netstandard2.0\Microsoft.IdentityModel.Logging.dll
@@ -44,7 +57,7 @@ C:\Users\Ando\.nuget\packages\microsoft.projectreunion.winui\0.8.0\lib\net5.0-wi
 C:\Users\Ando\.nuget\packages\microsoft.win32.systemevents\4.7.0\lib\netstandard2.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Ando\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactions.dll
 C:\Users\Ando\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactivity.dll
-C:\Users\Ando\.nuget\packages\newtonsoft.json\10.0.1\lib\netstandard1.3\Newtonsoft.Json.dll
+C:\Users\Ando\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll
 C:\Users\Ando\.nuget\packages\system.configuration.configurationmanager\4.7.0\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Ando\.nuget\packages\system.diagnostics.diagnosticsource\5.0.1\lib\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Ando\.nuget\packages\system.drawing.common\4.7.0\lib\netstandard2.0\System.Drawing.Common.dll
@@ -52,6 +65,7 @@ C:\Users\Ando\.nuget\packages\system.identitymodel.tokens.jwt\5.6.0\lib\netstand
 C:\Users\Ando\.nuget\packages\system.runtime.caching\4.7.0\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Ando\.nuget\packages\system.security.cryptography.protecteddata\4.7.0\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Ando\.nuget\packages\system.security.permissions\4.7.0\lib\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Ando\.nuget\packages\system.text.json\5.0.2\lib\netcoreapp3.0\System.Text.Json.dll
 C:\Users\Ando\.nuget\packages\system.windows.extensions\4.7.0\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient\2.0.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient\2.0.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -63,6 +77,9 @@ C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.0.1\runtime
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.0.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.0.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient.sni.runtime\2.0.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ando\.nuget\packages\microsoft.graphics.win2d\0.8.0.21\runtimes\win10-arm64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Ando\.nuget\packages\microsoft.graphics.win2d\0.8.0.21\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Ando\.nuget\packages\microsoft.graphics.win2d\0.8.0.21\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll
 C:\Users\Ando\.nuget\packages\microsoft.win32.systemevents\4.7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Ando\.nuget\packages\system.drawing.common\4.7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Ando\.nuget\packages\system.drawing.common\4.7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
@@ -71,24 +88,36 @@ C:\Users\Ando\.nuget\packages\system.security.cryptography.protecteddata\4.7.0\r
 C:\Users\Ando\.nuget\packages\system.windows.extensions\4.7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Ando\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.23\lib\Microsoft.Windows.SDK.NET.dll
 C:\Users\Ando\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.23\lib\WinRT.Runtime.dll
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.deps.json
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.dev.json
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.deps.json
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.dev.json
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\Ando\.nuget\packages\colorcode.core\2.0.9\lib\netstandard1.4\ColorCode.Core.pdb
+C:\Users\Ando\.nuget\packages\colorcode.winui\2.0.9\lib\net5.0-windows10.0.18362\ColorCode.WinUI.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.common\7.0.3\lib\net5.0\CommunityToolkit.Common.pdb
 C:\Users\Ando\.nuget\packages\communitytoolkit.mvvm\7.0.3\lib\net5.0\CommunityToolkit.Mvvm.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.core\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Core.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.datagrid\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.DataGrid.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.input\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Input.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.layout\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Layout.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.markdown\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Markdown.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.media\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Media.pdb
+C:\Users\Ando\.nuget\packages\communitytoolkit.winui.ui.controls.primitives\7.0.3\lib\net5.0-windows10.0.18362\CommunityToolkit.WinUI.UI.Controls.Primitives.pdb
 C:\Users\Ando\.nuget\packages\microsoft.data.sqlclient\2.0.1\ref\netcoreapp3.1\Microsoft.Data.SqlClient.pdb
 C:\Users\Ando\.nuget\packages\microsoft.projectreunion.foundation\0.8.0\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
 C:\Users\Ando\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactions.pdb
 C:\Users\Ando\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactivity.pdb
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.json
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.dll
-C:\Users\Ando\source\repos\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.json
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.pdb

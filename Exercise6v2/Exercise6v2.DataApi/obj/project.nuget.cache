@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6SUHtwiEcw28+r3cAgdkuxZTDaqGQfLHCGaZJkEOargWDBrsCMXMUU51RnqjZ1ukpSfUrYCu2ymLqB4MT3J1ZQ==",
+  "dgSpecHash": "qfEBnt0AbxHR78fiDq1qYczZMLHT/Tn9WCynvkvBd6w9Thmcjob0b6Ruy9kuUXsif4cA9uPxWJTMwmAiSZx7Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ando\\source\\repos\\Exercise6v2\\Exercise6v2.DataApi\\Exercise6v2.DataApi.csproj",
+  "projectFilePath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.DataApi\\Exercise6v2.DataApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

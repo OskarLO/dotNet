@@ -2,6 +2,8 @@
 
 using Exercise6v2.Activation;
 using Exercise6v2.Contracts.Services;
+using Exercise6v2.Core.Contacts;
+using Exercise6v2.Core.Services;
 using Exercise6v2.Helpers;
 using Exercise6v2.Services;
 using Exercise6v2.ViewModels;
@@ -55,6 +57,7 @@ namespace Exercise6v2
             services.AddSingleton<INavigationService, NavigationService>();
 
             // Core Services
+            services.AddSingleton<IStudentService, StudentService>();
 
             // Views and ViewModels
             services.AddTransient<ShellPage>();

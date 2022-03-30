@@ -1,12 +1,10 @@
-﻿using System;
+﻿using Exercise6v2.DataAccess;
+using Exercise6v2.DataAccess.Model;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Exercise6v2.DataAccess;
-using Exercise6v2.DataAccess.Model;
 
 namespace Exercise6v2.DataApi.Controllers
 {
@@ -73,7 +71,6 @@ namespace Exercise6v2.DataApi.Controllers
                 }
             }
 
-            return NoContent();
         }
 
         // POST: api/Students
