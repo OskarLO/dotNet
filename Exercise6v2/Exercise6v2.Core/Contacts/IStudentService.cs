@@ -9,7 +9,8 @@ namespace Exercise6v2.Core.Contacts
     public interface IStudentService
     {
         Task<IEnumerable<StudentDto>> GetStudentsAsync();
-        //Task<StudentDto> CreateCharacterAsync(StudentDto student);
-        //Task<bool> DeleteCharacterAsync(StudentDto student);
+        Task<StudentDto> CreateStudentAsync(StudentDto student);
+        //Task<StudentDto> UpdateStudentAsync(StudentDto student);
+        Task<bool> DeleteStudentAsync(StudentDto student);
     }
 }

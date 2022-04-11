@@ -519,6 +519,11 @@
 				</NamedResource>
 			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Views">
+				<NamedResource name="AddStudentPage.xbf" uri="ms-resource://Exercise6v2/Files/Views/AddStudentPage.xbf">
+					<Candidate type="Path">
+						<Value>Views\AddStudentPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
 				<NamedResource name="ShellPage.xbf" uri="ms-resource://Exercise6v2/Files/Views/ShellPage.xbf">
 					<Candidate type="Path">
 						<Value>Views\ShellPage.xbf</Value>
@@ -1118,6 +1123,15 @@
 					</Candidate>
 					<Candidate qualifiers="Language-DE-DE" type="String">
 						<Value>Nur IBehavior-Typen werden in einer BehaviorCollection unterstützt.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<ResourceMapSubtree name="Shell_AddStudent">
+				<NamedResource name="Content" uri="ms-resource://Exercise6v2/Resources/Shell_AddStudent/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AddStudent</Value>
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>

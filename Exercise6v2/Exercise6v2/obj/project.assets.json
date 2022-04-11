@@ -1437,6 +1437,15 @@
           }
         }
       },
+      "System.Net.Http.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
       "System.Net.NameResolution/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -2340,13 +2349,27 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
+        }
+      },
+      "Exercise6v2.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
+        "compile": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
         }
       }
     },
@@ -3937,6 +3960,15 @@
           "runtimes/win/lib/netstandard1.3/System.Net.Http.dll": {}
         }
       },
+      "System.Net.Http.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
       "System.Net.NameResolution/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4762,13 +4794,27 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
+        }
+      },
+      "Exercise6v2.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
+        "compile": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
         }
       }
     },
@@ -6359,6 +6405,15 @@
           "runtimes/win/lib/netstandard1.3/System.Net.Http.dll": {}
         }
       },
+      "System.Net.Http.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
       "System.Net.NameResolution/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -7184,13 +7239,27 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
+        }
+      },
+      "Exercise6v2.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
+        "compile": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
         }
       }
     },
@@ -8781,6 +8850,15 @@
           "runtimes/win/lib/netstandard1.3/System.Net.Http.dll": {}
         }
       },
+      "System.Net.Http.Json/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/System.Net.Http.Json.dll": {}
+        }
+      },
       "System.Net.NameResolution/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -9606,13 +9684,27 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Exercise6v2.Core.dll": {}
+        }
+      },
+      "Exercise6v2.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
+        "compile": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise6v2.DataAccess.dll": {}
         }
       }
     }
@@ -13489,6 +13581,28 @@
         "system.net.http.nuspec"
       ]
     },
+    "System.Net.Http.Json/5.0.0": {
+      "sha512": "3CPSQpCzEmI9o+1G79TnPCjF40omCdnoXj2Rg76BDwGj5+LZnFPjV+t35eedlvl+uthmholk/XXxXTYgJWSexw==",
+      "type": "package",
+      "path": "system.net.http.json/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Net.Http.Json.dll",
+        "lib/net461/System.Net.Http.Json.xml",
+        "lib/net5.0/System.Net.Http.Json.dll",
+        "lib/net5.0/System.Net.Http.Json.xml",
+        "lib/netstandard2.0/System.Net.Http.Json.dll",
+        "lib/netstandard2.0/System.Net.Http.Json.xml",
+        "system.net.http.json.5.0.0.nupkg.sha512",
+        "system.net.http.json.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Net.NameResolution/4.3.0": {
       "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
       "type": "package",
@@ -16064,6 +16178,11 @@
       "type": "project",
       "path": "../Exercise6v2.Core/Exercise6v2.Core.csproj",
       "msbuildProject": "../Exercise6v2.Core/Exercise6v2.Core.csproj"
+    },
+    "Exercise6v2.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Exercise6v2.DataAccess/Exercise6v2.DataAccess.csproj",
+      "msbuildProject": "../Exercise6v2.DataAccess/Exercise6v2.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -16071,6 +16190,7 @@
       "CommunityToolkit.Mvvm >= 7.0.3",
       "CommunityToolkit.WinUI.UI.Controls >= 7.0.3",
       "Exercise6v2.Core >= 1.0.0",
+      "Exercise6v2.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.12",
       "Microsoft.Extensions.DependencyInjection >= 5.0.2",
@@ -16112,6 +16232,9 @@
           "projectReferences": {
             "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.Core\\Exercise6v2.Core.csproj": {
               "projectPath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.Core\\Exercise6v2.Core.csproj"
+            },
+            "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.DataAccess\\Exercise6v2.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2.DataAccess\\Exercise6v2.DataAccess.csproj"
             }
           }
         }

@@ -1,7 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.DependencyInjection;
-using CommunityToolkit.WinUI.UI.Controls;
 using Exercise6v2.ViewModels;
-
 using Microsoft.UI.Xaml.Controls;
 
 namespace Exercise6v2.Views
@@ -16,5 +14,9 @@ namespace Exercise6v2.Views
             InitializeComponent();
         }
 
+        private void Button_Click_Get_Students(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
+        {
+            ViewModel.GetStudents();
+        }
     }
 }

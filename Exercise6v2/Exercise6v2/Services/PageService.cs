@@ -1,11 +1,14 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+using CommunityToolkit.Mvvm.ComponentModel;
+
 using Exercise6v2.Contracts.Services;
 using Exercise6v2.ViewModels;
 using Exercise6v2.Views;
+
 using Microsoft.UI.Xaml.Controls;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace Exercise6v2.Services
 {
@@ -17,6 +20,7 @@ namespace Exercise6v2.Services
         {
             Configure<StudentViewModel, StudentPage>();
             Configure<SubjectViewModel, SubjectPage>();
+            Configure<AddStudentViewModel, AddStudentPage>();
         }
 
         public Type GetPageType(string key)

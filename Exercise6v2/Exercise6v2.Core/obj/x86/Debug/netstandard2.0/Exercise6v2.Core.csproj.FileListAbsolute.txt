@@ -28,3 +28,23 @@ C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.CoreCompileInputs.cache
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.deps.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfo.cs
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.deps.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.AssemblyReference.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfoInputs.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.AssemblyInfo.cs
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.Core\obj\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb

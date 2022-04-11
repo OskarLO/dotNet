@@ -12,7 +12,6 @@ using Exercise6v2.Views;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.UI.Xaml;
 
-// To learn more about WinUI3, see: https://docs.microsoft.com/windows/apps/winui/winui3/.
 namespace Exercise6v2
 {
     public partial class App : Application
@@ -58,6 +57,7 @@ namespace Exercise6v2
 
             // Core Services
             services.AddSingleton<IStudentService, StudentService>();
+            services.AddSingleton<ISubjectService, SubjectService>();
 
             // Views and ViewModels
             services.AddTransient<ShellPage>();
@@ -66,6 +66,8 @@ namespace Exercise6v2
             services.AddTransient<SubjectPage>();
             services.AddTransient<StudentViewModel>();
             services.AddTransient<SubjectViewModel>();
+            services.AddTransient<AddStudentViewModel>();
+            services.AddTransient<AddStudentPage>();
             return services.BuildServiceProvider();
         }
     }

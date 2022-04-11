@@ -5,24 +5,33 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:viewmodels="using:Exercise6v2.ViewModels"
-    
     mc:Ignorable="d"
     Style="{StaticResource PageStyle}">
 
     <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
-        <Grid
-            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="100"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
 
-            <StackPanel>
-                <ListView x:Name="Student" ItemsSource="{x:Bind ViewModel.Students}">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <TextBlock Text="{Binding ViewModel.GetName}" />
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-            </StackPanel>
-
-        </Grid>
+        <Button Grid.Row="0" Grid.Column="0" Click="Button_Click_Get_Students">Get students from api</Button>
+        <AppBarButton Grid.Row="0" Grid.Column="1" Icon="Add" Label="Add" Command="{x:Bind ViewModel.AddCommand}"/>
+        <AppBarButton Grid.Row="0" Grid.Column="2" Icon="Edit" Label="Edit" Command="{x:Bind ViewModel.UpdateCommand}" CommandParameter="{x:Bind ViewModel.Selected, Mode=OneWay}" />
+        <AppBarButton Grid.Row="0" Grid.Column="3" Icon="Delete" Label="Delete" Command="{x:Bind ViewModel.DeleteCommand}" CommandParameter="{x:Bind ViewModel.Selected, Mode=OneWay}" />
+        <StackPanel Grid.Row="1">
+            <ListView x:Name="Student" SelectedItem="{x:Bind ViewModel.Selected, Mode=TwoWay}" ItemsSource="{x:Bind ViewModel.Students}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding FirstName}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
     </Grid>
 </Page>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NkxtZBC5Yw+tuKNK+6mfORYtHmFxv6Ew9+rZV1cWlMeY4Pwk0Q9q4KTzJ6H7zU99U40X9kAGBGkiZpyKA5rOaA==",
+  "dgSpecHash": "20cgrK/q6cjWhCqbacefVtrJTE0j3zaGI88dN2I+VwBScjrXcLR4hf1KUBgk483a3XerTfvRKI2b73LbsMWWWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ando\\Documents\\GitHub\\dotNet\\Exercise6v2\\Exercise6v2\\Exercise6v2.csproj",
   "expectedPackageFiles": [
@@ -132,6 +132,7 @@
     "C:\\Users\\Ando\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ando\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Ando\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",

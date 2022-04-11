@@ -301,3 +301,283 @@ C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Markdown.pdb
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Media.pdb
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Primitives.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\App.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\Page.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\ShellPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\StudentPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\SubjectPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.Core.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.WinUI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Common.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Mvvm.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Core.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Input.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Layout.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Markdown.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Media.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Primitives.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Humanizer.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Logging.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Options.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Primitives.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Identity.Client.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.WinUI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactivity.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Newtonsoft.Json.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Drawing.Common.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Runtime.Caching.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Security.Permissions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Text.Json.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Windows.Extensions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-arm64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Windows.SDK.NET.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\WinRT.Runtime.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.Core.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.Core.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.deps.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.runtimeconfig.dev.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\App.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\Page.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\TextBlock.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\_FontSizes.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\_Thickness.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\ShellPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\StudentPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\SubjectPage.xbf
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.exe
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.Core.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.WinUI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Common.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Mvvm.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Core.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.DataGrid.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Input.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Layout.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Markdown.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Media.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Primitives.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Data.SqlClient.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactions.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.runtimeconfig.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\resources.pri
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2 (Package).build.appxrecipe
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.AssemblyReference.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2.pri.xml
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.LastBuild.txt
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\App.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\Page.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\TextBlock.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\_FontSizes.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Styles\_Thickness.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\ShellPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\StudentPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\SubjectPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.Core.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.WinUI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Common.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Mvvm.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Core.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.DataGrid.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Input.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Layout.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Markdown.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Media.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Primitives.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Humanizer.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Data.SqlClient.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Logging.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Options.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Extensions.Primitives.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Identity.Client.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.WinUI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactivity.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Newtonsoft.Json.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Configuration.ConfigurationManager.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Drawing.Common.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Runtime.Caching.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Security.Permissions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Text.Json.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\System.Windows.Extensions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-arm64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Windows.SDK.NET.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\WinRT.Runtime.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.Core.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.Core.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.deps.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.runtimeconfig.dev.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\App.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\Page.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\TextBlock.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\_FontSizes.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Styles\_Thickness.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\ShellPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\StudentPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\SubjectPage.xbf
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.exe
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.Core.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\ColorCode.WinUI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Common.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.Mvvm.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Core.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.DataGrid.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Input.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Layout.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Markdown.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Media.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\CommunityToolkit.WinUI.UI.Controls.Primitives.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Data.SqlClient.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactions.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Microsoft.Xaml.Interactivity.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.runtimeconfig.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\resources.pri
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2 (Package).build.appxrecipe
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.AssemblyReference.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2.pri.xml
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2 (Package)\obj\x86\Debug\Exercise6v2 (Package).wapproj.LastBuild.txt
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Views\AddStudentPage.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 (Package)\bin\x86\Debug\Exercise6v2\Views\AddStudentPage.xbf

@@ -28,6 +28,7 @@
             -->
             <NavigationViewItem x:Uid="Shell_Main" Content="Students" Icon="Contact" helpers:NavHelper.NavigateTo="Exercise6v2.ViewModels.StudentViewModel" />
             <NavigationViewItem x:Uid="Shell_Second" Content="Subjects" Icon="Document" helpers:NavHelper.NavigateTo="Exercise6v2.ViewModels.SubjectViewModel" />
+            <NavigationViewItem x:Uid="Shell_AddStudent" Icon="Document" helpers:NavHelper.NavigateTo="Exercise6v2.ViewModels.AddStudentViewModel" />
         </NavigationView.MenuItems>
         <NavigationView.HeaderTemplate>
             <DataTemplate>

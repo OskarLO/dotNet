@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf">
+      <PackagePath>Views\AddStudentPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
     </AppxPackagedFile>
@@ -292,6 +295,9 @@
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll">
       <PackagePath>Exercise6v2\Exercise6v2.Core.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll">
+      <PackagePath>Exercise6v2\Exercise6v2.DataAccess.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.deps.json">
       <PackagePath>Exercise6v2\Exercise6v2.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -312,6 +318,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf">
       <PackagePath>Exercise6v2\Styles\_Thickness.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf">
+      <PackagePath>Exercise6v2\Views\AddStudentPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf">
       <PackagePath>Exercise6v2\Views\ShellPage.xbf</PackagePath>

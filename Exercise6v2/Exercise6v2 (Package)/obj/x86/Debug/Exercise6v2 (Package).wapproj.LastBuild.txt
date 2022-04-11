@@ -3,6 +3,7 @@ C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf
@@ -89,7 +90,9 @@ C:\Users\Ando\.nuget\packages\system.windows.extensions\4.7.0\runtimes\win\lib\n
 C:\Users\Ando\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.23\lib\Microsoft.Windows.SDK.NET.dll
 C:\Users\Ando\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.23\lib\WinRT.Runtime.dll
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.pdb
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.pdb
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.deps.json
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.dev.json
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
@@ -97,6 +100,7 @@ C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf

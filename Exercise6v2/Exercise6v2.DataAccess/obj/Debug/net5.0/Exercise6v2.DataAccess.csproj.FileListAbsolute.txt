@@ -40,3 +40,33 @@ C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Deb
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.pdb
 C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.genruntimeconfig.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.deps.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.dev.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfo.cs
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.genruntimeconfig.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.deps.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.runtimeconfig.dev.json
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.AssemblyInfo.cs
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\ref\Exercise6v2.DataAccess.dll
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.pdb
+C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataAccess\obj\Debug\net5.0\Exercise6v2.DataAccess.genruntimeconfig.cache
