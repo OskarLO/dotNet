@@ -10,7 +10,7 @@ namespace Exercise6v2.Core.Contacts
     {
         Task<IEnumerable<StudentDto>> GetStudentsAsync();
         Task<StudentDto> CreateStudentAsync(StudentDto student);
-        //Task<StudentDto> UpdateStudentAsync(StudentDto student);
+        Task<StudentDto> UpdateStudentAsync(StudentDto student);
         Task<bool> DeleteStudentAsync(StudentDto student);
     }
 }

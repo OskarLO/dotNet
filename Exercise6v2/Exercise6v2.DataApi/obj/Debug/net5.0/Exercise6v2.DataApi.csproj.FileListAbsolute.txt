@@ -550,3 +550,5 @@ C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataApi\obj\Debug\net5.0\
 C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataApi\obj\Debug\net5.0\ref\Exercise6v2.DataApi.dll
 C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataApi\obj\Debug\net5.0\Exercise6v2.DataApi.pdb
 C:\Users\Ando\Downloads\dotNet\Exercise6v2\Exercise6v2.DataApi\obj\Debug\net5.0\Exercise6v2.DataApi.genruntimeconfig.cache
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataApi\bin\Debug\net5.0\Exercise6v2.Core.dll
+C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataApi\bin\Debug\net5.0\Exercise6v2.Core.pdb

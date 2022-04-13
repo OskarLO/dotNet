@@ -20,15 +20,15 @@
             <ColumnDefinition Width="auto"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Button Grid.Row="0" Grid.Column="0" Click="Button_Click_Get_Students">Get students from api</Button>
+        <AppBarButton Grid.Row="0" Grid.Column="0" Icon="Download" Label="Get" Click="Button_Click_Get_Students">Get students</AppBarButton>
         <AppBarButton Grid.Row="0" Grid.Column="1" Icon="Add" Label="Add" Command="{x:Bind ViewModel.AddCommand}"/>
         <AppBarButton Grid.Row="0" Grid.Column="2" Icon="Edit" Label="Edit" Command="{x:Bind ViewModel.UpdateCommand}" CommandParameter="{x:Bind ViewModel.Selected, Mode=OneWay}" />
         <AppBarButton Grid.Row="0" Grid.Column="3" Icon="Delete" Label="Delete" Command="{x:Bind ViewModel.DeleteCommand}" CommandParameter="{x:Bind ViewModel.Selected, Mode=OneWay}" />
-        <StackPanel Grid.Row="1">
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
             <ListView x:Name="Student" SelectedItem="{x:Bind ViewModel.Selected, Mode=TwoWay}" ItemsSource="{x:Bind ViewModel.Students}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextBlock Text="{Binding FirstName}" />
+                        <TextBlock Text="{Binding StudentInfo}" />
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

@@ -61,5 +61,10 @@ namespace Exercise6v2.ViewModels
             get => _studentDto.Subjects;
             set => SetProperty(_studentDto.Subjects, value, (subjects) => _studentDto.Subjects = subjects);
         }
+
+        public string StudentInfo 
+        {
+            get => _studentDto.FirstName + " " + _studentDto.LastName;
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Exercise6v2.DataAccess;
+﻿using Exercise6v2.Core.Dtos;
+using Exercise6v2.DataAccess;
 using Exercise6v2.DataAccess.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -28,7 +29,7 @@ namespace Exercise6v2.DataApi.Controllers
 
         // POST: api/Students
         [HttpPost]
-        public async Task<ActionResult<Student>> CreateStudent(Student student)
+        public async Task<ActionResult<Student>> PostStudent(Student student)
         {
             _context.Students.Add(student);
             await _context.SaveChangesAsync();
@@ -52,32 +53,14 @@ namespace Exercise6v2.DataApi.Controllers
             return NoContent();
         }
 
-        //under er WORK IN PROGRESS
-
-        // GET: api/Students/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Student>> GetStudent(int id)
-        {
-            var student = await _context.Students.FindAsync(id);
-
-            if (student == null)
-            {
-                return NotFound();
-            }
-
-            return student;
-        }
-
         // PUT: api/Students/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutStudent(int id, Student student)
+        public async Task<IActionResult> UpdateStudent(int id, Student student)
         {
             if (id != student.StudentId)
             {
                 return BadRequest();
             }
-
 
             _context.Entry(student).State = EntityState.Modified;
 
@@ -99,6 +82,20 @@ namespace Exercise6v2.DataApi.Controllers
                 }
             }
 
+        }
+
+        // GET: api/Students/5
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Student>> GetStudent(int id)
+        {
+            var student = await _context.Students.FindAsync(id);
+
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            return student;
         }
 
         private bool StudentExists(int id)

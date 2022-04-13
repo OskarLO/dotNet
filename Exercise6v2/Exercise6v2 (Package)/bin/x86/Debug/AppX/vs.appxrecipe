@@ -30,45 +30,45 @@
     <AppXManifest Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2 %28Package%29\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-11T16:00:21.512</Modified>
+      <Modified>2022-04-13T12:07:54.126</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.822</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf">
       <PackagePath>Views\AddStudentPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf">
       <PackagePath>Views\StudentPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.824</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf">
       <PackagePath>Views\SubjectPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.824</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -390,7 +390,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.Core\bin\x86\Debug\netstandard2.0\Exercise6v2.Core.dll">
       <PackagePath>Exercise6v2\Exercise6v2.Core.dll</PackagePath>
-      <Modified>2022-04-11T15:51:41.836</Modified>
+      <Modified>2022-04-13T10:34:20.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2.DataAccess\bin\Debug\net5.0\Exercise6v2.DataAccess.dll">
       <PackagePath>Exercise6v2\Exercise6v2.DataAccess.dll</PackagePath>
@@ -406,43 +406,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
       <PackagePath>Exercise6v2\App.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf">
       <PackagePath>Exercise6v2\Styles\Page.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.822</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf">
       <PackagePath>Exercise6v2\Styles\TextBlock.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf">
       <PackagePath>Exercise6v2\Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf">
       <PackagePath>Exercise6v2\Styles\_Thickness.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\AddStudentPage.xbf">
       <PackagePath>Exercise6v2\Views\AddStudentPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf">
       <PackagePath>Exercise6v2\Views\ShellPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.823</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\StudentPage.xbf">
       <PackagePath>Exercise6v2\Views\StudentPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.824</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\SubjectPage.xbf">
       <PackagePath>Exercise6v2\Views\SubjectPage.xbf</PackagePath>
-      <Modified>2022-04-11T16:00:19.824</Modified>
+      <Modified>2022-04-13T12:07:51.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>Exercise6v2\Exercise6v2.exe</PackagePath>
-      <Modified>2022-04-11T16:00:20.017</Modified>
+      <Modified>2022-04-13T12:07:52.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.runtimeconfig.json">
       <PackagePath>Exercise6v2\Exercise6v2.runtimeconfig.json</PackagePath>
@@ -450,7 +450,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ando\Documents\GitHub\dotNet\Exercise6v2\Exercise6v2\bin\x86\Debug\net5.0-windows10.0.19041.0\Exercise6v2.dll">
       <PackagePath>Exercise6v2\Exercise6v2.dll</PackagePath>
-      <Modified>2022-04-11T16:00:20.007</Modified>
+      <Modified>2022-04-13T12:07:52.118</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

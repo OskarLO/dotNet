@@ -20,15 +20,15 @@
             <ColumnDefinition Width="auto"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Button x:ConnectionId='3' Grid.Row="0" Grid.Column="0"                                  >Get students from api</Button>
+        <AppBarButton x:ConnectionId='3' Grid.Row="0" Grid.Column="0" Icon="Download" Label="Get"                                  >Get students</AppBarButton>
         <AppBarButton x:ConnectionId='4' Grid.Row="0" Grid.Column="1" Icon="Add" Label="Add"                                        />
         <AppBarButton x:ConnectionId='5' Grid.Row="0" Grid.Column="2" Icon="Edit" Label="Edit"                                                                                                        />
         <AppBarButton x:ConnectionId='6' Grid.Row="0" Grid.Column="3" Icon="Delete" Label="Delete"                                                                                                        />
-        <StackPanel Grid.Row="1">
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
             <ListView x:ConnectionId='7' x:Name="Student"                                                                                                  >
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextBlock Text="{Binding FirstName}" />
+                        <TextBlock Text="{Binding StudentInfo}" />
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

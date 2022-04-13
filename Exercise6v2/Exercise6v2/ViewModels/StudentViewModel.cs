@@ -95,6 +95,42 @@ namespace Exercise6v2.ViewModels
         {
             get 
             {
+                if (_updateCommand == null)
+                {
+                    _updateCommand = new RelayCommand<AddStudentViewModel>(async param =>
+                    {
+                        AddStudentViewModel currentStud = Selected;
+                        AddStudentPage UpdateStudPage = new(currentStud);
+
+                        ContentDialog dialog = new()
+                        {
+                            Title = "Update existing student: " + currentStud.FirstName,
+                            Content = UpdateStudPage,
+                            PrimaryButtonText = "Apply Changes",
+                            IsPrimaryButtonEnabled = false,
+                            CloseButtonText = "Cancel",
+                            DefaultButton = ContentDialogButton.Primary,
+                            XamlRoot = _navigationService.Frame.XamlRoot
+                        };
+
+                        currentStud.PropertyChanged += (sender, e) => dialog.IsPrimaryButtonEnabled = !currentStud.HasErrors;
+
+                        ContentDialogResult result = await dialog.ShowAsync();
+
+                        if (result == ContentDialogResult.Primary)
+                        {
+                            var studentDto = await _studentService.UpdateStudentAsync((StudentDto)currentStud);
+                            AddStudentViewModel student = new(studentDto);
+
+                            var tempStud = Students.FirstOrDefault(i => i.StudentId == student.StudentId);
+                            if (tempStud != null)
+                            {
+                                tempStud = student;
+                            }
+                            Selected = student;
+                        }
+                    }, param => param != null);
+                }
                 return _updateCommand;
             }
         }
@@ -136,7 +172,7 @@ namespace Exercise6v2.ViewModels
 
         public void OnNavigatedTo(object parameter)
         {
-            
+            GetStudents();
         }
 
         public void OnNavigatedFrom()

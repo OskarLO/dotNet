@@ -35,7 +35,7 @@ namespace Exercise6v2.Core.Services
 
         public async Task<StudentDto> CreateStudentAsync(StudentDto student)
         {
-            HttpResponseMessage response = await _httpClient.PostAsJsonAsync($"students", student);
+            HttpResponseMessage response = await _httpClient.PostAsJsonAsync("students", student);
             response.EnsureSuccessStatusCode();
 
             return await response.Content.ReadFromJsonAsync<StudentDto>();
@@ -45,6 +45,14 @@ namespace Exercise6v2.Core.Services
         {
             HttpResponseMessage response = await _httpClient.DeleteAsync($"students/{student.StudentId}");
             return response.IsSuccessStatusCode;
+        }
+
+        public async Task<StudentDto> UpdateStudentAsync(StudentDto student)
+        {
+            HttpResponseMessage response = await _httpClient.PutAsJsonAsync($"students/{student.StudentId}", student);
+            response.EnsureSuccessStatusCode();
+
+            return await response.Content.ReadFromJsonAsync<StudentDto>();
         }
     }
 }
